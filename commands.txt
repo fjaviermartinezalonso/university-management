@@ -1,0 +1,7 @@
+InsertaPersona profesor "Luisa Fernandez Puerto" 26/06/1971 "Comunicaciones" 10
+InsertaPersona alumno "Pedro Perez del Real" 10/11/1978 10/10/2010 2.874
+Asigna 2 10 23
+Matricula 77 23 7
+ObtenCalendario 23 calendario.txt
+Evalua 45 notas.txt
+OrdenaProfesoresPorCargaDocente asignacion.txt

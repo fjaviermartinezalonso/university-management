@@ -1,0 +1,29 @@
+23
+Programacion II
+P-II
+1
+2 X 10; 7 L 9; 10 V 12
+*
+1
+Programacion I
+P-I
+
+1 M 15; 3 L 10; 17 V 19
+*
+87
+Pintura Avanzada
+PA
+45
+3 J 10; 5 X 14; 8 M 17
+*
+45
+Composicion Dinamica
+CoDi
+
+10 L 16; 23 M 9; 88 X 18 
+*
+10
+Sistemas Avanzados de Gestion
+SAG
+23, 1, 87
+23 L 16; 88 X 15
